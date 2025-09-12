@@ -2,7 +2,7 @@
 
 This is the github profile from Jacobiaan!
 - 🌱 I’m currently learning how to use github. 
-- And trying to work on code
+- blub
 
 
 <!--
